@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "rZOvE3HaSftyZs9CvSg6yQYMhw5nQc+wkKMENxxJVOaWXuWc+HiROH+JYBFMmZQsD9+gJhZUvMS2dLU9XqhoOw==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\OB02\\Desktop\\line-kub\\bot-service\\bot-service.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Swashbuckle.AspNetCore (>= 5.6.3)' for 'net5.0'.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
