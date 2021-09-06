@@ -1,18 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "rZOvE3HaSftyZs9CvSg6yQYMhw5nQc+wkKMENxxJVOaWXuWc+HiROH+JYBFMmZQsD9+gJhZUvMS2dLU9XqhoOw==",
-  "success": false,
+  "dgSpecHash": "I5dHRGodi22jP9n3V5PYZ1W8h/S1rHnvn9iNgiA3cIwxriTSL863I+OwJRn0AdbwleAh7VppHZmh/HwHE5yD9g==",
+  "success": true,
   "projectFilePath": "C:\\Users\\OB02\\Desktop\\line-kub\\bot-service\\bot-service.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1100",
-      "level": "Error",
-      "message": "Unable to resolve 'Swashbuckle.AspNetCore (>= 5.6.3)' for 'net5.0'.",
-      "libraryId": "Swashbuckle.AspNetCore",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  "expectedPackageFiles": [
+    "C:\\Users\\OB02\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\OB02\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\OB02\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\OB02\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\OB02\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\OB02\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
 }
