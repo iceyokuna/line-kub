@@ -2,7 +2,7 @@ using System;
 
 namespace bot_service
 {
-    public class WeatherForecast
+    public class Message
     {
         public DateTime Date { get; set; }
 
